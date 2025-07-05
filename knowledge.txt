@@ -1,0 +1,35 @@
+
+Flu has symptoms Fever, Cough.
+Cold has symptoms Sneezing, Runny Nose.
+COVID-19 has symptoms Fever, Cough, Shortness of Breath.
+Malaria has symptoms Fever, Chills, Sweating.
+Tuberculosis has symptoms Cough, Weight Loss, Night Sweats.
+Dengue has symptoms Fever, Joint Pain, Rash.
+Typhoid has symptoms Fever, Headache, Diarrhea.
+Hepatitis A has symptoms Jaundice, Fatigue, Abdominal Pain.
+Pneumonia has symptoms Cough, Fever, Chest Pain.
+ Asthma has symptoms Shortness of Breath, Wheezing, Cough.
+
+Cholera has symptoms: Diarrhea, Vomiting, Dehydration.
+
+Influenza has symptoms: Fever, Cough, Sore Throat.
+
+Gastroenteritis has symptoms: Abdominal Pain, Vomiting, Diarrhea.
+
+Bronchitis has symptoms: Cough, Chest Tightness, Fatigue.
+
+Heart Attack has symptoms: Chest Pain, Shortness of Breath, Nausea.
+
+Stroke has symptoms: Numbness, Weakness, Confusion.
+
+Epilepsy has symptoms: Seizures, Unusual Movements, Loss of Consciousness.
+
+Anemia has symptoms: Fatigue, Dizziness, Pale Skin.
+
+Diabetes has symptoms: Increased Thirst, Frequent Urination, Fatigue.
+
+Celiac Disease has symptoms: Diarrhea, Bloating, Weight Loss.
+
+Lung Cancer has symptoms: Persistent Cough, Coughing Up Blood, Shortness of Breath.
+
+Kidney Disease has symptoms: Swelling, Fatigue, Nausea.
